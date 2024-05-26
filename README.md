@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjula Pasindu</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjula75&label=Profile%20views&color=0e75b6&style=flat" alt="anjula75" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjula75&label=Profile%20views&color=0e75b6&style=flat" alt="anjula75" /> </p>
 
 - 🔭 I’m currently studying at **SLTC Research University**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganjulapasindu@gmail.com**
 
-- ⚡ Fun fact **I thin I am funny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

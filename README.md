@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjula75
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Flutter and React
+- 🌱 I’m currently learning Flutter and Python
 
 
 <!---
